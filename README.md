@@ -105,3 +105,12 @@ Best model: Random Forest
 Top features: ChestPainType, Oldpeak, MaxHR
 
 Best AUC Score: Achieved with Random Forest classifier
+
+![image](https://github.com/user-attachments/assets/38e89ec6-ff8c-4ffc-8bd3-8509fb2560ac)
+
+![image](https://github.com/user-attachments/assets/7d08c390-5263-4775-b1d4-7ad7d0bdd1aa)
+
+![image](https://github.com/user-attachments/assets/ac6a0e39-8b88-4fb8-84f1-3ff44f356e0e)
+
+
+
